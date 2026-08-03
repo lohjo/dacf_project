@@ -6,6 +6,8 @@ AWS Capstone Project (DACF)
 Capstone project (93DACF) for the Data Engineering modules, Diploma in Engineering Science, Ngee Ann Polytechnic. April 2026 semester. <br>
 [<a href="https://github.com/lohjo/dacf_project/blob/main/src/report/DACF%20Project%20Report.pdf">Report</a>]
 [<a href="https://github.com/lohjo/dacf_project/tree/main/data">Dataset</a>]
+[<a href="https://github.com/lohjo/dacf_project/blob/main/src/AWS%20Capstone%20Project%20(DACF)%20Data%20Visualisation%20Part%201.ipynb">Notebook 1</a>]
+[<a href="https://github.com/lohjo/dacf_project/blob/main/src/AWS%20Capstone%20Project%20(DACF)%20Data%20Visualisation%20Part%202.ipynb">Notebook 2</a>]
 </h3>
 
 ## Project Overview
