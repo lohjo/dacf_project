@@ -47,7 +47,7 @@ data/
   Makcerel_Catch_distrubution_Area(Using Existing View).csv
   Singapore_Fishing_Trend.csv
 src/
-  AWS Capstone Project (DACF) Part 1.ipynb                    # EDA + statistics
+  AWS Capstone Project (DACF) Data Visualisation Part 1.ipynb                    # EDA + statistics
   AWS Capstone Project (DACF) Data Visualisation Part 2.ipynb # column mining
   report/DACF Project Report.pdf                              # written submission
 ```
